@@ -6,6 +6,9 @@ using UnityEngine;
 // CONFLICT
 // CONFLICT1
 // CONFLICT2
+// A DIFFERENT CHANGE
+// A VERY DIFFERENT CHANGE
+// SLIGHTY DIFFERENT
 public class SafeTelemetryQueue : ITelemetryQueue
 {
     private ConcurrentQueue<TelemetryData> telemetrySafeQueue;
